@@ -10,4 +10,8 @@ public class Order
     public DateTime UpdatedAt { get; set; }
 
     public List<OrderLine> Lines { get; set; } = null;
+
+    //public Order()
+    //{
+    //}
 }
