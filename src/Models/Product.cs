@@ -8,7 +8,5 @@ public class Product
     public string Slug { get; set; }
     public decimal Price { get; set; }
 
-    //public Product()
-    //{
-    //}
+ 
 }

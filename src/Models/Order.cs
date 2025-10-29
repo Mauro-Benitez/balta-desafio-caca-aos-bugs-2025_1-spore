@@ -11,7 +11,5 @@ public class Order
 
     public List<OrderLine> Lines { get; set; } = null;
 
-    //public Order()
-    //{
-    //}
+    
 }

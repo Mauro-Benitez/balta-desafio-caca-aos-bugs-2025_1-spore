@@ -11,7 +11,5 @@ public class OrderLine
     public Guid ProductId { get; set; }
     public Product Product { get; set; }
 
-    //public OrderLine()
-    //{
-    //}
+   
 }

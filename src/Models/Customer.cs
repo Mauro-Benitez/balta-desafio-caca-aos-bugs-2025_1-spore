@@ -8,7 +8,5 @@ public class Customer
     public string Phone { get; set; }
     public DateTime BirthDate { get; set; }
 
-    //public Customer()
-    //{
-    //}
+    
 }
